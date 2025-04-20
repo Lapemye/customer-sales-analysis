@@ -26,14 +26,15 @@ This dataset contains 100 entries of fictional customer sales across different r
 
 ## 📈 Visuals
 
-![Sales by Region](Sales_by_Region.png)  
+![Sales by Region](Main-Sales_by_Region.png)  
 *Total sales amount grouped by region.*
 
-![Sales by Product Category](Sales_by_Product_Category.png)  
+![Sales by Product Category](Main-Sales_by_Product_Category.png)  
 *Total sales by different product categories.*
 
-![Daily Sales Over Time](Daily_Sales_Over_Time.png)  
+![Daily Sales Over Time](Main-Daily_Sales_Over_Time.png)  
 *Line chart showing sales performance over time.*
+
 
 
 ## 💡 Key Insights
