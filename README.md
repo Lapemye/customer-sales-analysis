@@ -1,50 +1,48 @@
+
 # Customer Sales Analysis
 
-A portfolio project analyzing customer sales data to uncover trends, product performance, and regional insights using Excel, Power BI, and SQL.
+## 📊 Project Overview
+This project analyzes customer sales data to uncover key insights about revenue trends, regional performance, and product category success. The goal is to support strategic decision-making for marketing and operations.
 
-## 📊 Tools Used
-- Excel
-- Power BI
-- SQL
+## 🛠 Tools Used
+- Excel (data cleaning, calculations)
+- Power BI (dashboard and data visualization)
+- SQL (customer segmentation and revenue queries)
 
-## 📁 Dataset Description
-This dataset contains 100 entries of fictional customer sales across different regions, product categories, and dates. Columns include:
-- Customer_ID
+## 🗂 Dataset Description
+The dataset includes 12 months of sales data from a fictional retail business. Key fields include:
+- Customer ID
 - Region
-- Product_Category
-- Sales_Amount
-- Purchase_Date
+- Sales Amount
+- Product Category
+- Purchase Date
 
 ## 🔍 Methodology
-1. Cleaned and transformed data using Excel.
-2. Used Power BI to build interactive dashboards.
-3. Created charts for:
-   - Total Sales by Region
-   - Total Sales by Product Category
-   - Daily Sales Over Time
-4. Queried and grouped sales using SQL for deeper insight.
+1. Cleaned and transformed the data in Excel (removed nulls, standardized columns).
+2. Loaded the dataset into Power BI for advanced visualization.
+3. Created calculated columns (monthly revenue, quarter-over-quarter growth).
+4. Used SQL queries to identify top revenue-generating customers.
+5. Designed visual dashboards to represent regional trends and product performance.
 
-## 📈 Visuals
+## 📈 Key Visuals
+- Line chart showing revenue growth over time.
+- Bar chart comparing sales by region.
+- Pie chart of revenue distribution by product category.
+- Scatter plot showing customer segmentation by spend level.
 
-![Sales by Region](Main-Sales_by_Region.png)  
-*Total sales amount grouped by region.*
+## 💡 Insights & Recommendations
+- Central region contributes 35% of total revenue—consider increased investment.
+- Electronics and Furniture are top categories—promote these during campaigns.
+- Low-revenue regions could benefit from localized marketing strategies.
+- A loyalty program for high-spending customers can improve retention.
 
-![Sales by Product Category](Main-Sales_by_Product_Category.png)  
-*Total sales by different product categories.*
-
-![Daily Sales Over Time](Main-Daily_Sales_Over_Time.png)  
-*Line chart showing sales performance over time.*
-
-
-
-## 💡 Key Insights
-- Central region accounts for the highest sales (~35%).
-- Electronics and Furniture lead in revenue generation.
-- Sales peaked mid-year; potential seasonality impact.
-- Opportunity to target underperforming regions through campaigns.
+## 📁 Files Included
+- `sales_data.csv`: Cleaned dataset used for analysis
+- `dashboard.pbix`: Power BI file with final dashboard
+- `visuals/`: Folder with screenshots of visualizations
+- `analysis.sql`: SQL scripts for data queries
 
 ---
 
-👤 **Created by:** Solape Olojede  
-📅 **Date:** April 2025  
-🔗 **GitHub:** [Lapemye](https://github.com/Lapemye)
+👩‍💻 Created by: Solape Olojede 
+📅 Date: April 2025
