@@ -25,7 +25,6 @@ This dataset contains 100 entries of fictional customer sales across different r
 4. Queried and grouped sales using SQL for deeper insight.
 
 ## 📈 Visuals
-## 📈 Visuals
 
 ![Sales by Region](Sales_by_Region.png)  
 *Total sales amount grouped by region.*
