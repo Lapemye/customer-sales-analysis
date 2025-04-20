@@ -24,11 +24,17 @@ The dataset includes 12 months of sales data from a fictional retail business. K
 4. Used SQL queries to identify top revenue-generating customers.
 5. Designed visual dashboards to represent regional trends and product performance.
 
-## 📈 Key Visuals
-- Line chart showing revenue growth over time.
-- Bar chart comparing sales by region.
-- Pie chart of revenue distribution by product category.
-- Scatter plot showing customer segmentation by spend level.
+## 📈 Visuals
+
+![Sales by Region](Sales_by_Region.png)  
+*Total sales amount grouped by region.*
+
+![Sales by Product Category](Sales_by_Product_Category.png)  
+*Total sales by different product categories.*
+
+![Daily Sales Over Time](Daily_Sales_Over_Time.png)  
+*Line chart showing sales performance over time.*
+
 
 ## 💡 Insights & Recommendations
 - Central region contributes 35% of total revenue—consider increased investment.
